@@ -12,6 +12,8 @@ let personalMovieDB = {
     privat: false
 };
 
+alert("Ya enlan");
+
 // third task
 const a = prompt('Last film watched you',''),
     c = prompt('Point',''),
